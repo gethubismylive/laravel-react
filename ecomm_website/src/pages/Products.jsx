@@ -270,7 +270,7 @@ const Products = () => {
               <i className="icon-arrow-right" />
             </li>
             <li className="nav-item">
-              <a href="#">Product</a>
+              <a href="#">Product test</a>
             </li>
           </ul>
         </div>
